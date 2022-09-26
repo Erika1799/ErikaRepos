@@ -1,0 +1,22 @@
+C:\Users\juan_\source\repos\Practica Acceso a Datos en Grids\Practica manejo de datos a partir de archivos de texto\bin\Debug\Practica manejo de datos a partir de archivos de texto.exe.config
+C:\Users\juan_\source\repos\Practica Acceso a Datos en Grids\Practica manejo de datos a partir de archivos de texto\bin\Debug\Practica manejo de datos a partir de archivos de texto.exe
+C:\Users\juan_\source\repos\Practica Acceso a Datos en Grids\Practica manejo de datos a partir de archivos de texto\bin\Debug\Practica manejo de datos a partir de archivos de texto.pdb
+C:\Users\juan_\source\repos\Practica Acceso a Datos en Grids\Practica manejo de datos a partir de archivos de texto\obj\Debug\Practica Acceso a Datos en Grids.csproj.AssemblyReference.cache
+C:\Users\juan_\source\repos\Practica Acceso a Datos en Grids\Practica manejo de datos a partir de archivos de texto\obj\Debug\Practica Acceso a Datos en Grids.csproj.SuggestedBindingRedirects.cache
+C:\Users\juan_\source\repos\Practica Acceso a Datos en Grids\Practica manejo de datos a partir de archivos de texto\obj\Debug\Practica_manejo_de_datos_a_partir_de_archivos_de_texto.Form1.resources
+C:\Users\juan_\source\repos\Practica Acceso a Datos en Grids\Practica manejo de datos a partir de archivos de texto\obj\Debug\Practica_manejo_de_datos_a_partir_de_archivos_de_texto.Properties.Resources.resources
+C:\Users\juan_\source\repos\Practica Acceso a Datos en Grids\Practica manejo de datos a partir de archivos de texto\obj\Debug\Practica Acceso a Datos en Grids.csproj.GenerateResource.cache
+C:\Users\juan_\source\repos\Practica Acceso a Datos en Grids\Practica manejo de datos a partir de archivos de texto\obj\Debug\Practica Acceso a Datos en Grids.csproj.CoreCompileInputs.cache
+C:\Users\juan_\source\repos\Practica Acceso a Datos en Grids\Practica manejo de datos a partir de archivos de texto\obj\Debug\Practica manejo de datos a partir de archivos de texto.exe
+C:\Users\juan_\source\repos\Practica Acceso a Datos en Grids\Practica manejo de datos a partir de archivos de texto\obj\Debug\Practica manejo de datos a partir de archivos de texto.pdb
+C:\Users\Erika Bernal\Downloads\Practica Acceso a Datos en Grids\Practica manejo de datos a partir de archivos de texto\obj\Debug\Practica Acceso a Datos en Grids.csproj.AssemblyReference.cache
+C:\Users\Erika Bernal\Downloads\Practica Acceso a Datos en Grids\Practica manejo de datos a partir de archivos de texto\obj\Debug\Practica Acceso a Datos en Grids.csproj.SuggestedBindingRedirects.cache
+C:\Users\Erika Bernal\Downloads\Practica Acceso a Datos en Grids\Practica manejo de datos a partir de archivos de texto\obj\Debug\Practica_manejo_de_datos_a_partir_de_archivos_de_texto.Form1.resources
+C:\Users\Erika Bernal\Downloads\Practica Acceso a Datos en Grids\Practica manejo de datos a partir de archivos de texto\obj\Debug\Practica_manejo_de_datos_a_partir_de_archivos_de_texto.Properties.Resources.resources
+C:\Users\Erika Bernal\Downloads\Practica Acceso a Datos en Grids\Practica manejo de datos a partir de archivos de texto\obj\Debug\Practica Acceso a Datos en Grids.csproj.GenerateResource.cache
+C:\Users\Erika Bernal\Downloads\Practica Acceso a Datos en Grids\Practica manejo de datos a partir de archivos de texto\obj\Debug\Practica Acceso a Datos en Grids.csproj.CoreCompileInputs.cache
+C:\Users\Erika Bernal\Downloads\Practica Acceso a Datos en Grids\Practica manejo de datos a partir de archivos de texto\obj\Debug\Practica manejo de datos a partir de archivos de texto.exe
+C:\Users\Erika Bernal\Downloads\Practica Acceso a Datos en Grids\Practica manejo de datos a partir de archivos de texto\obj\Debug\Practica manejo de datos a partir de archivos de texto.pdb
+C:\Users\Erika Bernal\Downloads\Practica Acceso a Datos en Grids\Practica manejo de datos a partir de archivos de texto\bin\Debug\Practica manejo de datos a partir de archivos de texto.exe.config
+C:\Users\Erika Bernal\Downloads\Practica Acceso a Datos en Grids\Practica manejo de datos a partir de archivos de texto\bin\Debug\Practica manejo de datos a partir de archivos de texto.exe
+C:\Users\Erika Bernal\Downloads\Practica Acceso a Datos en Grids\Practica manejo de datos a partir de archivos de texto\bin\Debug\Practica manejo de datos a partir de archivos de texto.pdb
